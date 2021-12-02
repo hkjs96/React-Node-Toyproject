@@ -1,0 +1,22 @@
+{
+  "name": "Alba-backend",
+  "version": "1.0.0",
+  "description": "알바 관리 및 알바 커뮤니티 Node기반 back-end 구축",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "mysql",
+    "sequelize"
+  ],
+  "author": "hkjs96",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
