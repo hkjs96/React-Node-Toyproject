@@ -1,5 +1,4 @@
 # React-Node-Toyproject 
-알바 관리 및 알바 커뮤니티 시스템
 
 # Technology
 - React
@@ -13,31 +12,7 @@
 - sequelize 6.12.0-alpha.1 (v6 사용하면 mysql2 설치)\
 - jsonwebtoken 8.5.1
 - bcryptjs 2.4.3
-
-## Board REST API
-- create
-- update
-- findOne
-- findAll
-- delete
-
-## User REST API
-<!-- - create -->
-<!-- - update -->
-- findOne
-- findAll
-- delete
-
-## Auth ??
-- signup
-- signin
-- login 
-- logout
-
-## User
-- bcrypt
-
-
+- 
 # Front-end 
 - React 16
 - react-router-dom 5.1.2
